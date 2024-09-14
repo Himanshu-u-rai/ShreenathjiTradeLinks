@@ -8,7 +8,8 @@ import Services from "./components/Services/Services";
 import Testimonial from "./components/Testimonial/Testimonial";
 import BlogsComp from "./components/Blogs/BlogsComp.jsx";
 import Footer from "./components/Footer/Footer";
-import PlantComp from "./components/plant/PlantComp.jsx";
+import PlantComp from "./components/Plant/PlantComp";
+
 
 const App = () => {
   useEffect(() => {
