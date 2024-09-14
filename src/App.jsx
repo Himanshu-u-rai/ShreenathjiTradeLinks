@@ -1,7 +1,6 @@
 import React, { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
-
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero/Hero";
 import BrandsLogo from "./components/BrandsLogo/BrandsLogo.jsx";
@@ -9,7 +8,7 @@ import Services from "./components/Services/Services";
 import Testimonial from "./components/Testimonial/Testimonial";
 import BlogsComp from "./components/Blogs/BlogsComp.jsx";
 import Footer from "./components/Footer/Footer";
-import PlantComp from "./components/Plant/PlantComp.jsx";
+import PlantComp from "./components/plant/PlantComp.jsx";
 
 const App = () => {
   useEffect(() => {
