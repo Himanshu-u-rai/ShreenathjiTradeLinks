@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import PlantCard from "../Plant/PlantCard";
+import PlantCard from "./PlantCard";
 import P1 from "../../assets/plant/P1.jpg";
 import P2 from "../../assets/plant/P2.jpg";
 import P3 from "../../assets/plant/P3.jpg";
