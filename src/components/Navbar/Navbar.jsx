@@ -127,7 +127,7 @@ const Navbar = () => {
         </div>
         <div className="px-4 py-2 border-t border-gray-300 dark:border-gray-700">
           <h1 className="text-center text-sm">
-            Shreenathji Trade Links
+            Tradin-Mining-Co
           </h1>
         </div>
       </div>
